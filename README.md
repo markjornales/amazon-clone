@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Sample Clone-app: http://clone-87707.web.app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -41,9 +41,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `START BACKEND`
 **Note: this is important to run backend server**
-locate 
-**bash$ cd functions
-**bash$ firebase emulators:start
+To locate 
+
+bash$ cd functions
+
+bash$ firebase emulators:start
 
 ## Learn More
 
